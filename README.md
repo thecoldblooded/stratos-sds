@@ -338,14 +338,3 @@ updateStake 1000000000 10000 1000000 1
 
 ![image](https://user-images.githubusercontent.com/101149671/181839812-e79667ee-d61e-4cd4-af05-8412fce5d97d.png)
 
-# Hesaplar:
-
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
-
-[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Forum   ](https://forum.rues.info/index.php)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Announcement   ](https://t.me/RuesAnnouncement)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/+-l6GpqiNOxFiMTVk)
-
-[Discord](https://discord.gg/ruescommunity)
